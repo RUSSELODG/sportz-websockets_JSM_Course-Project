@@ -1,0 +1,26 @@
+ma version 
+https://github.com/RUSSELODG/sportz-websockets_JSM_Course-Project/
+
+du cours 
+"Real-Time WebSockets Course | Build a Live Sports Dashboard with Node.js & PostgreSQL"
+de "JavaScript Mastery"
+s'arrête à 3:24:46
+(écrit le 10/10/2026 à 22h44 utc 0 donc possible que les timestamps changent dans le futur)
+car je ne voulais pas gaspiller les free try
+
+
+Pour le reste du code:
+
+backend:
+https://github.com/adrianhajdin/sportz-websockets
+
+
+la suite du projet est dans un cours apparemment. 
+understandable.
+
+frontend:
+https://github.com/jsmastery-pro/sportz-frontend
+
+https://www.youtube.com/@javascriptmastery
+
+
